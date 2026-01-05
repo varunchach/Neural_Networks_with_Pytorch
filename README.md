@@ -365,6 +365,6 @@ Start with `neural_networks_simple.ipynb` and work your way up. Remember: practi
 
 ---
 
-*Last Updated: 2024*  
+*Last Updated: 2025*  
 *PyTorch Version: 2.8.0+*
 
